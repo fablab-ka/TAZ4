@@ -10,7 +10,7 @@ Folgende Anpassungen wurden durchgeführt:
 Zudem wurde am RamBo Board die Verkabelung angepasst.
 Hintergrund ist das der Z-Treiber auf über 100°C angestiegen ist und daher keine Bewegung in der Z-Achse mehr möglich war. 
 
-(https://github.com/fablab-ka/TAZ4/blob/master/IMG_1074.JPG)
+![](https://github.com/fablab-ka/TAZ4/blob/master/IMG_1074.JPG)
 
 Voraussetzung für das Kompilieren:
 
@@ -28,4 +28,4 @@ Damit die Treiber gekühlt werden, muss der Lüfter auf dem Rambo Board umverkab
 Der neue Slot ist auf dem Board oben links zu finden.
 Wichtig ist die Polarität. Rot muss nach oben zeigen.
 
-(https://github.com/fablab-ka/TAZ4/blob/master/Rambo_-2.jpg)
+![](https://github.com/fablab-ka/TAZ4/blob/master/Rambo_-2.jpg)
