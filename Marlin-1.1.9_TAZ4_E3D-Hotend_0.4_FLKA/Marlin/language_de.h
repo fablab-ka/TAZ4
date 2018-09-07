@@ -36,7 +36,7 @@
 
 #define THIS_LANGUAGES_SPECIAL_SYMBOLS      _UxGT("ÄäÖöÜüß²³")
 
-#define WELCOME_MSG                         MACHINE_NAME _UxGT(" bereit")
+#define WELCOME_MSG                         MACHINE_NAME _UxGT(" 192.168.1.44:5003")
 #define MSG_BACK                            _UxGT("Zurück")
 #define MSG_SD_INSERTED                     _UxGT("SD-Karte erkannt")
 #define MSG_SD_REMOVED                      _UxGT("SD-Karte entfernt")
